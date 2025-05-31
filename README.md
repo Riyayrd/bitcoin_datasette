@@ -115,4 +115,4 @@ DOCKER_BUILDKIT=0 docker build --no-cache -t umd_data605/umd_data605_template .
 
 - Data Source: https://www.coingecko.com/
 - Visualization Engine: https://datasette.io/
-- Author: Your Name, MS Data Science, University of Maryland
+- Author: Riya Disawal, MS Data Science, University of Maryland
